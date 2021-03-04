@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```
 ![Watch the video](/img/duck.jpeg)
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sAzL4XMke80" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sAzL4XMke80" frameborder="0"></iframe>
 
 
 
