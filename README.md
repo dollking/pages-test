@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```
 ![Watch the video](/img/duck.jpeg)
 ```
-{% include videl.html id="유튜브동영상url" %}  
+{% include videl.html id="https://www.youtube.com/watch?v=GWt6Fu05voI" %}  
 
 
 
