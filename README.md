@@ -41,5 +41,5 @@ python train.py --gpu_cnt 4 --input_channels 3
     
     
 ## link
-link는 결과물을 확인할 수 있는 링크가 있다면 연결해 놓으면 좋습니다.
+link는 결과물을 확인할 수 있는 링크가 있다면 연결해 놓으면 좋습니다.   
 [Kookmin Univ.](https://www.kookmin.ac.kr)
