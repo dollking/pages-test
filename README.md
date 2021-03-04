@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/dollking/test11/edit/main/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ```
-![Watch the video](https://www.youtube.com/watch?v=sAzL4XMke80)
+![Watch the video](/img/duck.jpeg)
 ```
 ![Alt text](https://www.youtube.com/watch?v=sAzL4XMke80)
 
