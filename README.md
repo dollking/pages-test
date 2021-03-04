@@ -4,11 +4,11 @@
 
 ## 순서
 * header
- * h1
- * h2
+  * h1
+  * h2
 * list
- * ordered
- * non-ordered
+  * ordered
+  * non-ordered
 * code
 * Link
 
