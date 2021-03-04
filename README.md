@@ -33,7 +33,7 @@ header는 H1~H6까지만 지원됩니다.
     
     
 ## code
-code는 실행 및 빌드 방법 등을 설명하는 것에 적절합니다.
+code는 실행 및 빌드 방법 등을 설명하는 것에 적절합니다.   
 구현된 코드를 readme에 넣는 것은 좋지 않습니다.
 ```shell
 python train.py --gpu_cnt 4 --input_channels 3
